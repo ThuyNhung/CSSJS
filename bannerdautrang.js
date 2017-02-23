@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2mfwmak' target='_blank'><img src='https://4.bp.blogspot.com/-ch040OilwLs/WHSRE1tQaNI/AAAAAAAACC8/SAFJKOg6G4E97Las7YIoOoVhlneEmBiRQCLcB/s1600/can%2Bho%2Bgia%2Bre%2Bvincity%2B700%2Btrieu.jpg width='500px'/><br/>13 căn hộ giá rẻ Vincity</a>. Đăng kí mua vincity tặng iphone 7. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2mfwmak' target='_blank'><img src='https://4.bp.blogspot.com/-ch040OilwLs/WHSRE1tQaNI/AAAAAAAACC8/SAFJKOg6G4E97Las7YIoOoVhlneEmBiRQCLcB/s1600/can%2Bho%2Bgia%2Bre%2Bvincity%2B700%2Btrieu.jpg' width='500px'/><br/>Căn hộ giá rẻ Vincity</a>. Đăng kí mua vincity tặng iphone 7. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
